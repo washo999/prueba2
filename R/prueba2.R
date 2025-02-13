@@ -15,4 +15,3 @@ exponente <- as.integer(readline())
 resultado <- potencia_d(base, exponente)
 cat("\n El resultado de la potencia es:", resultado)
 
-
